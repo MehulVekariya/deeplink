@@ -1,0 +1,19 @@
+/* Empty. Add your own CSS if you like */
+.style_btn {
+    width: 200px;
+    height: 200px;
+    padding: 10px;
+    line-height: 50px;
+    text-align: left;
+    text-indent: 10px;
+    font-family: Verdana, Geneva, sans-serif;
+    font-size: 16px;
+    color: #333;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    border: 1px solid #333;
+    background-color: white;
+    cursor: pointer;
+    margin: 20px;
+}
